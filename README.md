@@ -1,4 +1,4 @@
-## EE-NTHU-LogicDesign-Lab
+# EE-NTHU-LogicDesign-Lab
 
 2022/February - 2022/June
 
